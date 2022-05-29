@@ -2,7 +2,6 @@ module.exports = {
     markdown: {
         lineNumbers: true,  //是否在每个代码块的左侧显示行号
     },
-    base:'/',
     locales: {
         '/': {
             lang: 'zh-CN'
