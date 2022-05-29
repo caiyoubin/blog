@@ -1,0 +1,23 @@
+{
+  "name": "githubpages-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiyoubin/GithubPages-Blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caiyoubin/GithubPages-Blog/issues"
+  },
+  "homepage": "https://github.com/caiyoubin/GithubPages-Blog#readme",
+  "devDependencies": {
+    "vuepress-theme-reco": "^1.6.11"
+  }
+}
