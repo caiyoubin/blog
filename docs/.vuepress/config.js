@@ -1,4 +1,5 @@
 module.exports = {
+
     markdown: {
         lineNumbers: true,  //是否在每个代码块的左侧显示行号
     },
@@ -12,6 +13,7 @@ module.exports = {
     title: '博客',
     description: 'caiyoubin的博客',
     themeConfig: {
+        lastUpdated: '上次更新', // string | boolean
         subSidebar: 'auto',
         nav: [
             { text: '首页', link: '/' },
